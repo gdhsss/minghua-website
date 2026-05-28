@@ -379,6 +379,15 @@ h3 {
   overflow-wrap: anywhere;
 }
 
+.qr-code {
+  width: min(190px, 62vw);
+  aspect-ratio: 1;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 10px;
+  background: var(--white);
+}
+
 .contact-panel span {
   color: var(--muted);
 }
