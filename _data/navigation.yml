@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Services"
+    url: /portfolio/
+    
+  - title: "Profile"
+    url: /cv/
