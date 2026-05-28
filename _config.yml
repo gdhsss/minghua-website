@@ -21,7 +21,7 @@ repository               : "gdhsss/minghua-website"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "huang-avatar.svg"
+  avatar           : "huang-minghua-photo.jpg"
   name             : "黄铭华"
   pronouns         : # example: "she/her"  
   bio              : "北京大成（广州）律师事务所律师。疑难复杂民商事诉讼、股东纠纷诉讼。执业证号：14404202410743219。"
