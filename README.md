@@ -1,7 +1,7 @@
 # 黄铭华律师个人主页
 
-This repository hosts a GitHub Pages personal homepage for 黄铭华律师, based on an Academic Pages-style Jekyll site.
+GitHub Pages 静态个人主页，面向律师专业形象展示。
 
-Public URL after GitHub Pages is enabled:
+公开地址：
 
 https://gdhsss.github.io/minghua-website/
